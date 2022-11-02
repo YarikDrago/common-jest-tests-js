@@ -1,0 +1,22 @@
+{
+  "name": "jest-test-js-2",
+  "version": "1.0.0",
+  "description": "learning different tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/YarikDrago/common-jest-tests-js.git"
+  },
+  "author": "Iaroslav Uliantsev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YarikDrago/common-jest-tests-js/issues"
+  },
+  "homepage": "https://github.com/YarikDrago/common-jest-tests-js#readme",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  }
+}
