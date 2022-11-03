@@ -4,11 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="749bbabb-d97b-4b2b-b80d-5541a006ae8e" name="Default Changelist" comment="" />
+    <list default="true" id="749bbabb-d97b-4b2b-b80d-5541a006ae8e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -30,20 +37,7 @@
     <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Jest.square">
-    <configuration name="map array to string" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
-      <node-interpreter value="project" />
-      <node-options value="" />
-      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
-      <working-dir value="$PROJECT_DIR$" />
-      <envs />
-      <scope-kind value="SUITE" />
-      <test-file value="$PROJECT_DIR$/src/mapArrToString/mapArrToString.test.js" />
-      <test-names>
-        <test-name value="map array to string" />
-      </test-names>
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Jest.test with axios.combination work of funcitons">
     <configuration name="square" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
@@ -71,41 +65,33 @@
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="square.spy on method Math.pow not 1" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+    <configuration name="test with axios.combination work of funcitons" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
       <jest-package value="$PROJECT_DIR$/node_modules/jest" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/square/square.test.js" />
+      <test-file value="$PROJECT_DIR$/src/getData/getData.test.js" />
       <test-names>
-        <test-name value="square" />
-        <test-name value="spy on method Math.pow not 1" />
+        <test-name value="test with axios" />
+        <test-name value="combination work of funcitons" />
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="square.spy on method Math.pow" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
-      <node-interpreter value="project" />
-      <node-options value="" />
-      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
-      <working-dir value="$PROJECT_DIR$" />
-      <envs />
-      <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/square/square.test.js" />
-      <test-names>
-        <test-name value="square" />
-        <test-name value="spy on method Math.pow" />
-      </test-names>
+    <configuration name="delay.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/delay/delay.js" working-dir="$PROJECT_DIR$/src/delay">
+      <method v="2" />
+    </configuration>
+    <configuration name="delay.test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/delay/delay.test.js" working-dir="$PROJECT_DIR$/src/delay">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Jest.test with axios.combination work of funcitons" />
+        <item itemvalue="Node.js.delay.test.js" />
         <item itemvalue="Jest.square" />
+        <item itemvalue="Node.js.delay.js" />
         <item itemvalue="Jest.square.spy on method Math.pow for 1" />
-        <item itemvalue="Jest.square.spy on method Math.pow not 1" />
-        <item itemvalue="Jest.square.spy on method Math.pow" />
-        <item itemvalue="Jest.map array to string" />
       </list>
     </recent_temporary>
   </component>
@@ -117,7 +103,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667400415393</updated>
-      <workItem from="1667400416510" duration="5886000" />
+      <workItem from="1667400416510" duration="12076000" />
+      <workItem from="1667461814134" duration="1249000" />
     </task>
     <servers />
   </component>
@@ -125,29 +112,29 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1679" height="229" key="GridCell.Tab.0.bottom" timestamp="1667417795582">
+    <state width="1679" height="229" key="GridCell.Tab.0.bottom" timestamp="1667461798383">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1679" height="229" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1667417795582" />
-    <state width="1679" height="229" key="GridCell.Tab.0.center" timestamp="1667417795582">
+    <state width="1679" height="229" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1667461798383" />
+    <state width="1679" height="229" key="GridCell.Tab.0.center" timestamp="1667461798383">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1679" height="229" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1667417795582" />
-    <state width="1679" height="229" key="GridCell.Tab.0.left" timestamp="1667417795582">
+    <state width="1679" height="229" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1667461798383" />
+    <state width="1679" height="229" key="GridCell.Tab.0.left" timestamp="1667461798383">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1679" height="229" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1667417795582" />
-    <state width="1679" height="229" key="GridCell.Tab.0.right" timestamp="1667417795582">
+    <state width="1679" height="229" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1667461798383" />
+    <state width="1679" height="229" key="GridCell.Tab.0.right" timestamp="1667461798383">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1679" height="229" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1667417795582" />
+    <state width="1679" height="229" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1667461798383" />
     <state x="246" y="19" key="SettingsEditor" timestamp="1667402568474">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="246" y="19" key="SettingsEditor/0.0.1707.920@0.0.1707.920" timestamp="1667402568474" />
-    <state x="432" y="0" width="840" height="1034" key="search.everywhere.popup" timestamp="1667417496982">
+    <state x="432" y="0" width="840" height="1034" key="search.everywhere.popup" timestamp="1667459462546">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state x="432" y="0" width="840" height="1034" key="search.everywhere.popup/0.0.1707.920@0.0.1707.920" timestamp="1667417496982" />
+    <state x="432" y="0" width="840" height="1034" key="search.everywhere.popup/0.0.1707.920@0.0.1707.920" timestamp="1667459462546" />
   </component>
 </project>
